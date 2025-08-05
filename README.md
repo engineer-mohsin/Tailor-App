@@ -4,7 +4,7 @@ A **mobile application** built with **Flutter** for tailoring businesses to mana
 
 ---
 
-<a href="https://1024terabox.com/s/13F2iTIGj8zgx_LerVqhhuA"><h2>Download & Install the App</h2></a>
+<a href="https://1024terabox.com/s/13F2iTIGj8zgx_LerVqhhuA" target="_blank"><h2>Download & Install the App</h2></a>
 ---
 
 ## ✨ Features
